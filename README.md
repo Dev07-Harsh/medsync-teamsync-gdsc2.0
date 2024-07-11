@@ -33,7 +33,7 @@ This health management application is designed to empower users by providing ess
 - Promoting community engagement and support for better health outcomes.
 
 ## Technologies Used
-- **Frontend**: Flutter
+- **Frontend**: HTML, CSS, Javascript...
 - **Backend**: Node.js
 - **Databases**: Firebase, Firestore, Firebase Realtime Database
 - **APIs**: Gemini API, OpenStreetMap API
